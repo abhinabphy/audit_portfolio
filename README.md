@@ -1,4 +1,4 @@
-# audit_portfolio
+
 # 🔍 Smart Contract Audit Findings
 
 This repo is a collection of smart contract vulnerabilities I’ve discovered during manual reviews and protocol deep-dives. 
